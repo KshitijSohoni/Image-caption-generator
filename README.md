@@ -27,3 +27,8 @@ The model is evaluated based on its ability to generate accurate and descriptive
 
 ### BLEU-1 score: 0.390204
 ### BLEU-2 score: 0.190610
+
+_______________________________________
+
+## Sample Output 
+![image](https://github.com/KshitijSohoni/Image-caption-generator/assets/108518838/1ef19c44-e038-4c72-a7f7-6d50bc09a326)
