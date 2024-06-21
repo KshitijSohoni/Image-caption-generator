@@ -1,5 +1,5 @@
 # Image caption generator
-###This project focuses on generating captions for images using deep learning techniques. The dataset used is the Flickr8k dataset, which contains 8000 images each paired with five different captions. The model is trained to map image features to captions using a combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs).
+#### This project focuses on generating captions for images using deep learning techniques. The dataset used is the Flickr8k dataset, which contains 8000 images each paired with five different captions. The model is trained to map image features to captions using a combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs).
 
 
 ### Libraries Used
